@@ -1,0 +1,8 @@
+amstrong
+stack
+dynamic stack
+queue
+dynamic queue
+priority queue
+single link list
+double link list

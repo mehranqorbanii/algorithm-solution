@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Source :
 // http://www.javaworld.com/article/2073526/core-java/datastructures-and-algorithms-part-2.html
 
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 class SinglyLinkedListDelete {
